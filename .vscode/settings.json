@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "stdio.h": "c",
+    "array_sorter.h": "c",
+    "cs50.h": "c",
+    "volume.h": "c",
+    "filter.h": "c"
+  }
+}
