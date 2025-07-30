@@ -5,6 +5,7 @@
     "array_sorter.h": "c",
     "cs50.h": "c",
     "volume.h": "c",
-    "filter.h": "c"
+    "filter.h": "c",
+    "inheritance.h": "c"
   }
 }
