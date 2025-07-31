@@ -6,6 +6,8 @@
     "cs50.h": "c",
     "volume.h": "c",
     "filter.h": "c",
-    "inheritance.h": "c"
+    "inheritance.h": "c",
+    "speller.h": "c",
+    "dictionary.h": "c"
   }
 }
