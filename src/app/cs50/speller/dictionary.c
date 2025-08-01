@@ -107,7 +107,7 @@ bool load(const char *dictionary)
             current->word[index] = c;
             index++;
         }
-        else
+        else if (isalpha(current->word[0])) // avoid adding special characters to the table (to save space and time)
         {
             // Null-terminate the current word
             current->word[LENGTH] = '\0';
